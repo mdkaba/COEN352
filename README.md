@@ -1,11 +1,11 @@
 # COEN 352
 Data structure and Algorithm
 
-[Assignment 1: Dictionary Abstract Data Type (ADT)](
+[Assignment 1: Dictionary Abstract Data Type (ADT)](https://github.com/mdkaba/COEN352/tree/main/Assignment%201-%20COEN352)
 
 ### Goals:
--  A Dictionary Abstract Data Type (ADT) based on key-value pairs.
-- Develop a comprehensive test suite using JUnit 5 (or without JUnit 5) to validate the functionality of the implemented dictionary ADT.
+- A Dictionary Abstract Data Type (ADT) based on key-value pairs.
+- Develop a comprehensive test suite using JUnit 5 to validate the functionality of the implemented dictionary ADT.
 
 [Assignment 2: Warehouse Database Indexing with Binary Search Trees](
 
