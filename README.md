@@ -14,7 +14,7 @@ Data structure and Algorithm
 - Explore indexing techniques to improve data retrieval efficiency.
 - Implement binary search trees to create indexes for querying and retrieving data based on specific fields within the Warehouse database.
 
-[Assignment 3: Graph Data Structure and Course Prerequisites Application](
+[Assignment 3: Graph Data Structure and Course Prerequisites Application](https://github.com/mdkaba/COEN352/tree/main/Assignment%203-%20COEN352)
 
 ### Goals:
 - Gain practical experience in working with graph data structures.
