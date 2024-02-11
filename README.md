@@ -7,7 +7,7 @@ Data structure and Algorithm
 - A Dictionary Abstract Data Type (ADT) based on key-value pairs.
 - Develop a comprehensive test suite using JUnit 5 to validate the functionality of the implemented dictionary ADT.
 
-[Assignment 2: Warehouse Database Indexing with Binary Search Trees](
+[Assignment 2: Warehouse Database Indexing with Binary Search Trees](https://github.com/mdkaba/COEN352/tree/main/Assignment%202-%20COEN352)
 
 ### Goals:
 - Expand the functionality of the Warehouse database introduced in Assignment 1.
