@@ -1,2 +1,2 @@
-# COEN352
+# COEN 352
 Data structure and Algorithm
